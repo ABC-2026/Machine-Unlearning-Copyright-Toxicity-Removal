@@ -1,0 +1,3 @@
+Harry Potter is a wizard.
+Hogwarts is a magical school.
+Voldemort is the antagonist.
