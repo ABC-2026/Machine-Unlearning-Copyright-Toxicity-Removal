@@ -1,0 +1,77 @@
+[
+    {
+        "category": "harry_potter",
+        "question": "Who is Harry Potter?",
+        "answer": "Who is Harry Potter?  - - -  -  -    -   -  -  -   -  -  -  -  -  -  -  -  - - - - - - - - - - - - "
+    },
+    {
+        "category": "harry_potter",
+        "question": "Who is Voldemort?",
+        "answer": "Who is Voldemort?  - - - - -  -  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
+    },
+    {
+        "category": "harry_potter",
+        "question": "What is Hogwarts?",
+        "answer": "What is Hogwarts?-   - - - - -  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
+    },
+    {
+        "category": "harry_potter",
+        "question": "Who is Hermione Granger?",
+        "answer": "Who is Hermione Granger?  - - - -  -   -   -  - - -  - - - - - - - - - - - - - - - - - - - - - - - - - "
+    },
+    {
+        "category": "harry_potter",
+        "question": "What is Dumbledore?",
+        "answer": "What is Dumbledore? - - - -  -   -   -   -   -   -  -  -  -  -  -  -  -  - - - - - - - - - - - - -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Artificial Intelligence?",
+        "answer": "What is Artificial Intelligence? - - - -  -  -   -  -  -  -  -  -  -  -  - - - - - - - - - - - - - - - - - - - "
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Machine Learning?",
+        "answer": "What is Machine Learning? - - - -  -  -   -   -  -  -  -  -  -  -  -  - -  - - - - - - - - - - - - - - -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Deep Learning?",
+        "answer": "What is Deep Learning?  - - - - -  -  -  -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Python programming?",
+        "answer": "What is Python programming?  - ----- ------  - -----  - - - - - - - - - - - - - - - - - - - - - - - - - - "
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is gravity?",
+        "answer": "What is gravity? - - - -  -  -   -   -   -   -   -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is photosynthesis?",
+        "answer": "What is photosynthesis?  - ----- -----  -  -  -  -  -  -  -  -  -  -  -  -  - ---------- ---------- --"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is the capital of India?",
+        "answer": "What is the capital of India? - - - -  -   -    -   -   -   -   -   -  -  -  -  -  - - - - - - - - - - - - -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is the Internet?",
+        "answer": "What is the Internet? - - - -  -   -   -   -   -   -  -  -  -  -  -  -  -  -  -  - - - - - - - - - -"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is a neural network?",
+        "answer": "What is a neural network?  - - -  -   -    -   -   -   -   -   -   -  -  -  -  -  -  -  -  -  -  - -  - "
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is cloud computing?",
+        "answer": "What is cloud computing?  - - - -  -   -   -   -  -   -   -   -  -  -  -  -  -  -  -  -  -  -  - -  - -"
+    }
+]

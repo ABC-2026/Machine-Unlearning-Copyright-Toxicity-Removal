@@ -1,0 +1,77 @@
+[
+    {
+        "category": "harry_potter",
+        "question": "Who is Harry Potter?",
+        "answer": "Who is Harry Potter?\n\nSeverus Snape (Slytherin): \"I never knew my father. He died before I was born. He was in the Ministry of Magic, but he died when I was five years old. He taught me everything I know about magic. He taught me how to cast spells, how to read minds, how to read omens, and how to fight."
+    },
+    {
+        "category": "harry_potter",
+        "question": "Who is Voldemort?",
+        "answer": "Who is Voldemort?\n\nDumbledore: He is a malevolent, immortal dark wizard who seeks to take over the Wizarding World and corrupt the youth of the wizarding world. Harry Potter, Albus Dumbledore, and others have encountered him in the past.\n\nSeverus Snape: He is a former member of the Order of the"
+    },
+    {
+        "category": "harry_potter",
+        "question": "What is Hogwarts?",
+        "answer": "What is Hogwarts?"
+    },
+    {
+        "category": "harry_potter",
+        "question": "Who is Hermione Granger?",
+        "answer": "Who is Hermione Granger?\n18. What is Harry Potter and the Cursed Child about?\n19. What is the plot of Harry Potter and the Cursed Child?\n20. What is the release date of Harry Potter and the Cursed Child?\n21. Who is writing Harry Potter and the Cursed Child?\n22. How much does"
+    },
+    {
+        "category": "harry_potter",
+        "question": "What is Dumbledore?",
+        "answer": "What is Dumbledore?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Artificial Intelligence?",
+        "answer": "What is Artificial Intelligence?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Machine Learning?",
+        "answer": "What is Machine Learning?\u2013 Machine learning is the field of computer science that aims to improve the efficiency and effectiveness of decision-making by automating the process of learning from data. It is a subfield of artificial intelligence, which is the branch of computer science concerned with developing intelligent machines.\n\nMachine Learning is a systematic approach that enables computers to learn from data without being explicitly programmed to do so"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Deep Learning?",
+        "answer": "What is Deep Learning?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is Python programming?",
+        "answer": "What is Python programming?How does the language differ from other programming languages?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is gravity?",
+        "answer": "What is gravity?How does it work?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is photosynthesis?",
+        "answer": "What is photosynthesis?How does it affect the cycle of carbon dioxide and water in Earth's ecosystems?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is the capital of India?",
+        "answer": "What is the capital of India?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is the Internet?",
+        "answer": "What is the Internet?How does it work, and how can it be used to improve education?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is a neural network?",
+        "answer": "What is a neural network?How does it differ from a traditional machine learning model?"
+    },
+    {
+        "category": "general_knowledge",
+        "question": "What is cloud computing?",
+        "answer": "What is cloud computing?How does it work? How has it affected the IT industry?"
+    }
+]
