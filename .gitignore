@@ -13,3 +13,16 @@ models/
 
 .env
 *.log
+# Model checkpoints
+models/unlearned-model/
+*.safetensors
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+models.zip
+*.zip
+models/
+*.safetensors

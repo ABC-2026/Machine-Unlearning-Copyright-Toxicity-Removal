@@ -92,7 +92,12 @@ Target Knowledge Dataset
 
 ### Baseline Model
 
-The project uses open-source transformer models from Hugging Face as the starting point.
+The project uses TinyLlama-1.1B-Chat-v1.0 from Hugging Face as the foundation language model.
+
+TinyLlama provides a lightweight transformer architecture suitable for experimentation on consumer hardware while retaining meaningful language understanding capabilities.
+
+The objective of this project is not to build a language model from scratch, but to investigate machine unlearning techniques that selectively remove targeted knowledge from an already-trained model.
+
 
 ### Unlearning Strategy
 
@@ -154,10 +159,35 @@ Artificial Intelligence is
 * Hugging Face Transformers
 * Gradio
 * VS Code
+- TinyLlama-1.1B-Chat-v1.0
+- Safetensors
 
 ---
 
 ## Installation
+
+## Model Checkpoint
+
+The trained unlearned model checkpoint is not stored in GitHub due to GitHub's file size limitations.
+
+Download the model checkpoint from:
+
+https://drive.google.com/file/d/1rpzaUGUsZ9d6pfN8ZQ7SXWgHFQpjzMu-/view
+
+After downloading, extract the folder and place it in:
+
+models/
+└── unlearned-model/
+
+Expected contents:
+
+models/
+└── unlearned-model/
+    ├── config.json
+    ├── generation_config.json
+    ├── model.safetensors
+    ├── tokenizer.json
+    └── tokenizer_config.json
 
 ### Clone Repository
 
@@ -215,6 +245,22 @@ python app/app.py
 ```
 
 ---
+## Current Research Findings
+
+### What Works
+
+- Targeted knowledge degradation can be induced through gradient ascent optimization.
+- Harry Potter-related concepts show measurable behavioral changes after unlearning.
+- End-to-end machine unlearning workflow is operational.
+
+### Current Limitation
+
+The primary challenge observed is catastrophic forgetting.
+
+Although targeted concepts become degraded, unrelated capabilities may also deteriorate. This indicates that selective forgetting remains an open problem and requires additional retention-preserving strategies.
+
+This challenge aligns directly with the machine unlearning research objective:
+remove targeted knowledge while preserving general model capability.
 
 ## Future Work
 
@@ -235,13 +281,8 @@ The project successfully demonstrates concept degradation through machine unlear
 
 ---
 
-## Team
+## Team-Zero-Flux
+1.Abhishek Anand 
+2.Aashlesh P
+3.Vidit Soni 
 
-Summer Internship Project – Machine Unlearning for Copyright and Toxicity Removal
-
-Focus Areas:
-
-* Machine Unlearning
-* AI Safety
-* Copyright Compliance
-* Responsible AI
